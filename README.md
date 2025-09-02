@@ -2,8 +2,9 @@
 
 LED Matrix Print Files (ESP32 Super Mini + WLED)
 
-This repository provides the 3D print files for a compact LED matrix case designed to run with WLED
-.
+This repository provides the 3D print files for a compact LED matrix case designed to run with WLED.
+
+![PXL_20250902_112455597 MP](https://github.com/user-attachments/assets/8549727b-7f17-4584-aa04-1086e97e8a73)
 
 About
 
