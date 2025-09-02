@@ -13,7 +13,7 @@ About
 
 💡 Works perfectly with WLED for LED control and with LedFx for music synchronization.
 
-🔌 Power consumption of the LED matrix is low enough that it can be supplied directly from the ESP32 Super Mini (full white = 2.5 W @ 5 V, 0.48 A).
+🔌 Power consumption of the LED matrix is low enough that it can be supplied directly from the ESP32 Super Mini (full white = 2.63 W @ 5 V, 0.51 A).
 
 Recommended Software
 
